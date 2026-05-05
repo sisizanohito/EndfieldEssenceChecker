@@ -1,0 +1,21 @@
+# Build output
+**/bin/
+**/obj/
+**/bin-codex/
+**/obj-codex/
+**/publish*/
+
+# Runtime output
+**/captures/
+*.log
+*_cache.json
+targets.json
+EndfieldEssenceChecker/ui-*.png
+
+# IDE and OS files
+.vs/
+.vscode/
+*.user
+*.suo
+Thumbs.db
+Desktop.ini
